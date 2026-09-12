@@ -40,3 +40,6 @@ TaskTrack help
 - JSON
 - File I/O
 - Windows API
+
+## sol
+https://roadmap.sh/projects/task-tracker/solutions?u=69c2377533a0ad7a5763d181
