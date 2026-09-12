@@ -1,6 +1,6 @@
 # TaskTrack
 
-A command-line task manager built with C++.
+A command-line task manager built with C++. Made for https://roadmap.sh/projects/task-tracker
 
 ## Features
 
